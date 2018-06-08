@@ -1,4 +1,4 @@
-# Web-scraping-of-Medium-articles-and-analysis
+# Web Scraping and Analysis of Medium articles
 
 Web scraping automatically extracts data and presents it in a format you can easily make sense of.We are going to use Python as our scraping language, together with a simple and powerful library, BeautifulSoup
 
