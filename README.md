@@ -2,6 +2,8 @@
 
 Web scraping automatically extracts data and presents it in a format you can easily make sense of.We are going to use Python as our scraping language, together with a simple and powerful library, BeautifulSoup.
 
+For Dynamically loading the webpage we use Selenium along with chromedriver
+
 Selenium WebDriver is a collection of open source APIs which are used to automate the testing of a web application. Description: Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. It supports many browsers such as Firefox, Chrome, IE, and Safari.
 
 ### Scraping Rules
