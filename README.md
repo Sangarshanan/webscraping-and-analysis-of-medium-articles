@@ -1,2 +1,3 @@
 # Web-scraping-of-Medium-articles-and-analysis
-Scraping medium articles tagged under ML,DL and AI and performing analysis
+
+Web scraping automatically extracts data and presents it in a format you can easily make sense of.
