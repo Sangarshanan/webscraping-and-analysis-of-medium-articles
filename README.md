@@ -12,3 +12,5 @@ Selenium WebDriver is a collection of open source APIs which are used to automat
 * Do not request data from the website too aggressively with your program (also known as spamming), as this may break the website. Make sure your program behaves in a reasonable manner (i.e. acts like a human). One request for one webpage per second is good practice.
 * The layout of a website may change from time to time, so make sure to revisit the site and rewrite your code as needed
 
+Exploratory analysis of the data has also been done
+
