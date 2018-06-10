@@ -18,4 +18,5 @@ Analysis is done
 
 * Author wise
 * Month wise
-* Tag wise etc
+* Tag wise and so on
+
