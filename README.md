@@ -14,3 +14,8 @@ Selenium WebDriver is a collection of open source APIs which are used to automat
 
 ### Exploratory analysis of the data has also been done
 
+Analysis is done
+
+* Author wise
+* Month wise
+* Tag wise etc
