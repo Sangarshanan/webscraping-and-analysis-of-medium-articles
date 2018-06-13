@@ -20,3 +20,5 @@ Analysis is done
 * Month wise
 * Tag wise and so on...
 
+The resulting visualizations help us understand data science based medium articles better
+
