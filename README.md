@@ -6,6 +6,8 @@ For Dynamically loading the webpage we use Selenium along with chromedriver
 
 Selenium WebDriver is a collection of open source APIs which are used to automate the testing of a web application. Description: Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. It supports many browsers such as Firefox, Chrome, IE, and Safari.
 
+##### Kaggle link : https://www.kaggle.com/sangarshanan/medium-articles-tagged-in-mldlai
+
 ### Scraping Rules
 
 * You should check a website’s Terms and Conditions before you scrape it. Be careful to read the statements about legal use of data. Usually, the data you scrape should not be used for commercial purposes.
